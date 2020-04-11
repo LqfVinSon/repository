@@ -9,6 +9,10 @@ public class gitclass {
         System.out.println( "hello");
         System.out.println( "hello");
         System.out.println( "hello");
+        int i= 0;
+        i += 10;
+        System.out.println(i);
+
     }
     public void  test(){
         int i = 0;
